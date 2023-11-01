@@ -1,0 +1,28 @@
+ID: 101
+Name: Kishore
+Class and Section: EEE-A
+
+ID: 102
+Name: Ram
+Class and Section: EEE-B
+
+ID: 103
+Name: Kishan
+Class and Section: EEE-A
+
+ID: 104
+Name: Raju
+Class and Section: EEE-B
+
+ID: 105
+Name: Ravi
+Class and Section: EEE-A
+
+ID: 106
+Name: Roja
+Class and Section: EEE-A
+
+ID: 107
+Name: Chris
+Class and Section: EEE-B
+

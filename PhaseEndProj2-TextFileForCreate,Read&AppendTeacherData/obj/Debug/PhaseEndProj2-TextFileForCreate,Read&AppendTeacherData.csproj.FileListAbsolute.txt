@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\bin\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.exe.config
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\bin\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.exe
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\bin\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.pdb
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\obj\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\obj\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\obj\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.exe
+C:\Users\ASUS\source\repos\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData\obj\Debug\PhaseEndProj2-TextFileForCreate,Read&AppendTeacherData.pdb
